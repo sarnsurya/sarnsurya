@@ -5,42 +5,48 @@
 </div>
 
 <p align="center">
-  🌐 Full Stack Developer | 💻 Cloud Enthusiast | 🧠 ML Explorer | 🚀 Final Year IT Student
+  🌐 Full Stack Developer | 💻 Cloud Enthusiast | 🧠 ML Explorer | 🚀 B. Tech IT Graduate
 </p>
 
 ---
 
-- 🔭 I’m currently working on:  
-  A **Cloud-based System for Generating Comprehensive Patient Summary Reports** – integrating ML, cloud storage (AWS S3), and real-time processing to transform raw patient data into meaningful summaries.
+## 👤 About Me
+I’m a **Full Stack Developer** passionate about building **scalable, high-performance web applications** with **modern UI/UX** and robust cloud integrations.  
+With experience in **React, Node.js, AWS, and Firebase**, I specialize in **end-to-end development** — from crafting responsive frontends to architecting secure, optimized backends.  
+I thrive on **problem-solving**, love learning **cutting-edge technologies**, and enjoy transforming complex requirements into **simple, impactful solutions**.
 
-- 🌱 I’m currently learning:  
-  - Advanced **Next.JS** & **TailwindCSS** for high-performance frontend  
-  - **Node.js**, **Firebase**, and **Firestore** for scalable backend services  
-  - **AWS** services for cloud storage and deployment  
-  - Best practices in **DevOps** and **Testing methodologies**
+---
 
-- 👯 I’m looking to collaborate on:  
+- 🔭 **Recently completed**:  
+  A **Cloud-based System for Generating Comprehensive Patient Summary Reports** – integrated ML, AWS S3, and real-time data processing to convert raw medical data into actionable insights.
+
+- 🔄 **Currently working on**:  
+  A **new high-performance web application project** for clients, focusing on **e-commerce solutions** with advanced cloud features and smooth user experiences.
+
+- 🌱 **Learning**:  
+  - Advanced **Next.JS** & **TailwindCSS** for optimized frontend performance  
+  - **Node.js**, **Firebase**, and **Firestore** for scalable backend solutions  
+  - **AWS** for storage, deployment, and media delivery  
+  - **DevOps** workflows and testing best practices
+
+- 👯 **Collaboration interests**:  
   - Open-source healthcare tech  
   - Cloud-native applications  
   - React/Node-based scalable solutions
 
-- 🤔 I’m looking for help with:  
-  - Building secure and compliant health data platforms (HIPAA, etc.)  
-  - Optimizing cloud cost and performance
-
-- 💬 Ask me about:  
+- 💬 **Ask me about**:  
   - Full stack development (React + Node)  
-  - Integrating cloud services into your project  
-  - Firebase and real-time data processing  
-  - Frontend performance and UI/UX enhancements
+  - AWS S3 + Firebase integration  
+  - Scalable e-commerce architecture  
+  - Frontend performance optimization
 
-- 📫 How to reach me:  
+- 📫 **Reach me**:  
   [LinkedIn](https://www.linkedin.com/in/vsurya-j) | [Email](vsurya.j21@gmail.com)
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact:  
-  I love building intuitive interfaces with smooth animations and I’m obsessed with turning complex problems into simple, user-friendly solutions!
+- ⚡ **Fun fact**:  
+  I love crafting smooth animations and turning complex problems into clean, user-friendly solutions.
 
 ---
 
@@ -59,13 +65,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarnsurya&theme=tokyonight" />
 </p>
 
-
 ---
 
-### 🧠 Currently Interning @ Quindl Technologies  
-Working with real-world projects on **ReactJS**, **NodeJS**, and **cloud-based architectures** in a collaborative Agile environment.
+### 💼 Currently Freelancing  
+Delivering **custom web and cloud-based solutions** — from high-traffic e-commerce platforms to specialized business applications — leveraging AWS, Firebase, and modern frontend frameworks.
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
