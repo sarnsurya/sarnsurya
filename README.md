@@ -5,59 +5,68 @@
 </div>
 
 <p align="center">
-  🌐 Full Stack Developer | 💻 Cloud Enthusiast | 🧠 ML Explorer | 🚀 B. Tech IT Graduate
+  🌐 Full Stack Developer | ☁️ Cloud & Web3 Enthusiast | 💻 Freelancer | 🎓 B. Tech IT Graduate
 </p>
 
 ---
 
 ## 👤 About Me
-I’m a **Full Stack Developer** passionate about building **scalable, high-performance web applications** with **modern UI/UX** and robust cloud integrations.  
-With experience in **React, Node.js, AWS, and Firebase**, I specialize in **end-to-end development** — from crafting responsive frontends to architecting secure, optimized backends.  
-I thrive on **problem-solving**, love learning **cutting-edge technologies**, and enjoy transforming complex requirements into **simple, impactful solutions**.
+I’m a **Full Stack Developer** passionate about crafting **scalable, high-performance web applications** with seamless **cloud and Web3 integrations**.  
+I specialize in **React, Node.js, AWS, Cloudflare, and Firebase**, delivering **end-to-end solutions** — from modern frontends to optimized, secure backends.  
+
+Currently, I’m a **freelancer** building **ERP and e-commerce systems** with advanced cloud storage, efficient image handling, and clean user interfaces.
 
 ---
 
-- 🔭 **Recently completed**:  
-  A **Cloud-based System for Generating Comprehensive Patient Summary Reports** – integrated ML, AWS S3, and real-time data processing to convert raw medical data into actionable insights.
+- 🚀 **Recent Project:**  
+  **E-Commerce Platform with Cloudflare & AWS Integration**  
+  → Developed a high-traffic online store using **React + Node.js**, with **Cloudflare hosting**, **AWS S3** for media uploads, and **Firebase authentication** — delivering fast, reliable performance for global users.
 
-- 🔄 **Currently working on**:  
-  A **new high-performance web application project** for clients, focusing on **e-commerce solutions** with advanced cloud features and smooth user experiences.
+- 💼 **Currently Working On:**  
+  **SmartERP – A Modern ERP/CRM System**  
+  → A full-featured business management platform focusing on **real-time operations**, **secure data handling**, and **scalable architecture** for SMEs.
 
-- 🌱 **Learning**:  
-  - Advanced **Next.JS** & **TailwindCSS** for optimized frontend performance  
-  - **Node.js**, **Firebase**, and **Firestore** for scalable backend solutions  
-  - **AWS** for storage, deployment, and media delivery  
-  - **DevOps** workflows and testing best practices
+- ⚙️ **Tech Focus Areas:**  
+  - Building **React + Node.js** full-stack web apps  
+  - Hosting & deployment via **Cloudflare**, **AWS**, and **Firebase**  
+  - Image storage and optimization for large-scale apps  
+  - Integrating **Web3** components for decentralized access  
+  - Streamlining server-based architecture for **cost-effective scalability**
 
-- 👯 **Collaboration interests**:  
-  - Open-source healthcare tech  
-  - Cloud-native applications  
-  - React/Node-based scalable solutions
+- 🌱 **Learning & Improving:**  
+  - **Next.js** & **TailwindCSS** for performance-driven frontends  
+  - **Server optimization** using Node.js and database tuning  
+  - **DevOps workflows** for CI/CD and monitoring
 
-- 💬 **Ask me about**:  
-  - Full stack development (React + Node)  
-  - AWS S3 + Firebase integration  
-  - Scalable e-commerce architecture  
-  - Frontend performance optimization
+- 👯 **Looking to Collaborate On:**  
+  - Cloud-hosted business applications  
+  - Web3-based platforms  
+  - ERP and e-commerce systems  
 
-- 📫 **Reach me**:  
-  [LinkedIn](https://www.linkedin.com/in/vsurya-j) | [Email](vsurya.j21@gmail.com)
+- 💬 **Ask me about:**  
+  - React + Node.js full stack development  
+  - AWS S3, Firebase & Cloudflare integrations  
+  - Web hosting and deployment strategies  
+  - Cost-optimized and scalable backend design  
 
-- 😄 Pronouns: He/Him
+- 📫 **Reach me:**  
+  [LinkedIn](https://www.linkedin.com/in/vsurya-j) | [Email](mailto:vsurya.j21@gmail.com)
 
-- ⚡ **Fun fact**:  
-  I love crafting smooth animations and turning complex problems into clean, user-friendly solutions.
+- 😄 Pronouns: He/Him  
+
+- ⚡ **Fun fact:**  
+  I enjoy making **smooth UI transitions**, and I believe great design starts with great performance 🚀
 
 ---
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,js,ts,html,css,firebase,aws,github,mongodb,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,ts,html,css,mongodb,mysql,firebase,aws,cloudflare,github,vite,figma,docker" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarnsurya&show_icons=true&theme=tokyonight" />
@@ -67,8 +76,11 @@ I thrive on **problem-solving**, love learning **cutting-edge technologies**, an
 
 ---
 
-### 💼 Currently Freelancing  
-Delivering **custom web and cloud-based solutions** — from high-traffic e-commerce platforms to specialized business applications — leveraging AWS, Firebase, and modern frontend frameworks.
+### 💼 Freelancing Journey  
+Delivering **custom web and cloud-based solutions** for businesses — from **e-commerce platforms** to **ERP systems** — using a blend of  
+**React, Node.js, Cloudflare, AWS, and Firebase**.  
+
+> Focused on creating **high-speed, scalable, and secure systems** that perform flawlessly under real-world traffic.
 
 ---
 
