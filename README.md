@@ -5,68 +5,105 @@
 </div>
 
 <p align="center">
-  🌐 Full Stack Developer | ☁️ Cloud & Web3 Enthusiast | 💻 Freelancer | 🎓 B. Tech IT Graduate
+  🌐 Full Stack Developer | ☁️ Cloud Architecture & Optimization | 💻 Freelancer | 🎓 B.Tech IT Graduate
 </p>
 
 ---
 
 ## 👤 About Me
-I’m a **Full Stack Developer** passionate about crafting **scalable, high-performance web applications** with seamless **cloud and Web3 integrations**.  
-I specialize in **React, Node.js, AWS, Cloudflare, and Firebase**, delivering **end-to-end solutions** — from modern frontends to optimized, secure backends.  
 
-Currently, I’m a **freelancer** building **ERP and e-commerce systems** with advanced cloud storage, efficient image handling, and clean user interfaces.
+I’m a **Full Stack Developer & Freelancer** focused on building **production-ready, scalable web applications** with strong emphasis on  
+**cloud infrastructure, performance, and cost optimization**.
 
----
+I work end-to-end — from **modern React frontends** to **robust Node.js backends**, handling **deployment, storage, authentication, and scaling** using  
+**AWS, Cloudflare, Firebase, and server-based architectures**.
 
-- 🚀 **Recent Project:**  
-  **E-Commerce Platform with Cloudflare & AWS Integration**  
-  → Developed a high-traffic online store using **React + Node.js**, with **Cloudflare hosting**, **AWS S3** for media uploads, and **Firebase authentication** — delivering fast, reliable performance for global users.
-
-- 💼 **Currently Working On:**  
-  **SmartERP – A Modern ERP/CRM System**  
-  → A full-featured business management platform focusing on **real-time operations**, **secure data handling**, and **scalable architecture** for SMEs.
-
-- ⚙️ **Tech Focus Areas:**  
-  - Building **React + Node.js** full-stack web apps  
-  - Hosting & deployment via **Cloudflare**, **AWS**, and **Firebase**  
-  - Image storage and optimization for large-scale apps  
-  - Integrating **Web3** components for decentralized access  
-  - Streamlining server-based architecture for **cost-effective scalability**
-
-- 🌱 **Learning & Improving:**  
-  - **Next.js** & **TailwindCSS** for performance-driven frontends  
-  - **Server optimization** using Node.js and database tuning  
-  - **DevOps workflows** for CI/CD and monitoring
-
-- 👯 **Looking to Collaborate On:**  
-  - Cloud-hosted business applications  
-  - Web3-based platforms  
-  - ERP and e-commerce systems  
-
-- 💬 **Ask me about:**  
-  - React + Node.js full stack development  
-  - AWS S3, Firebase & Cloudflare integrations  
-  - Web hosting and deployment strategies  
-  - Cost-optimized and scalable backend design  
-
-- 📫 **Reach me:**  
-  [LinkedIn](https://www.linkedin.com/in/vsurya-j) | [Email](mailto:vsurya.j21@gmail.com)
-
-- 😄 Pronouns: He/Him  
-
-- ⚡ **Fun fact:**  
-  I enjoy making **smooth UI transitions**, and I believe great design starts with great performance 🚀
+Currently, I’m actively building and maintaining **E-Commerce Platforms, and Custom Business Applications** for clients.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Commitments
+
+- 💼 **Projects (Active)**  
+  - **E-commerce platforms** with:
+    - AWS S3 / Cloudflare R2 for image & video storage  
+    - Secure authentication (Firebase / custom auth)  
+    - Payment gateway integrations  
+    - High-traffic optimization & CDN delivery  
+  - **ERP / CRM systems** for SMEs:
+    - Role-based access  
+    - Real-time data handling  
+    - Scalable backend architecture  
+    - Clean, responsive dashboards  
+
+- ⚙️ **Infrastructure & Hosting Work**
+  - Server-based hosting (VPS, PM2, Nginx, Docker)
+  - Migration from **Firebase-heavy setups to cost-efficient servers**
+  - Cloudflare performance tuning (CDN, caching, security)
+  - CI/CD & deployment automation
+
+---
+
+## 🛠️ Tech Focus Areas
+
+- **Frontend:** React, Next.js, TailwindCSS, Vite  
+- **Backend:** Node.js, Express, REST APIs  
+- **Databases:** MongoDB, MySQL, Firestore  
+- **Cloud & Storage:** AWS S3, Cloudflare R2, Firebase  
+- **DevOps & Hosting:** VPS, PM2, Nginx, Docker  
+- **Others:** Web performance optimization, scalable architecture design
+
+---
+
+## 🌱 Currently Improving
+
+- Advanced **server optimization & scaling strategies**
+- **Next.js** for SEO-driven and high-performance apps
+- **Cloud cost optimization** for long-term production systems
+- Cleaner DevOps workflows for faster deployments
+
+---
+
+## 👯 Open to Collaborate On
+
+- Large-scale **e-commerce platforms**
+- **ERP / CRM systems**
+- Cloud-heavy applications requiring performance tuning
+- Long-term product-based projects
+
+---
+
+## 💬 Ask Me About
+
+- Full-stack development (React + Node.js)
+- AWS S3 / Cloudflare R2 / Firebase integrations
+- Image &azorPay & payment workflows
+- Hosting, deployment & cost optimization
+- Moving from Firebase to server-based architectures
+
+---
+
+## 📫 Reach Me
+
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/vsurya-j  
+- ✉️ **Email:** mailto:vsurya.j21@gmail.com  
+
+😄 **Pronouns:** He/Him  
+
+⚡ **Fun fact:**  
+I obsess over **performance, smooth UI transitions, and real-world scalability** — not just demos 🚀
+
+---
+
+## 🛠️ Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,js,ts,html,css,mongodb,mysql,firebase,aws,cloudflare,github,vite,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,nodejs,express,js,ts,html,css,mongodb,mysql,firebase,aws,cloudflare,github,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarnsurya&show_icons=true&theme=tokyonight" />
@@ -76,12 +113,12 @@ Currently, I’m a **freelancer** building **ERP and e-commerce systems** with a
 
 ---
 
-### 💼 Freelancing Journey  
-Delivering **custom web and cloud-based solutions** for businesses — from **e-commerce platforms** to **ERP systems** — using a blend of  
-**React, Node.js, Cloudflare, AWS, and Firebase**.  
+## 💼 Freelancing Focus
 
-> Focused on creating **high-speed, scalable, and secure systems** that perform flawlessly under real-world traffic.
+Delivering **production-grade web and cloud solutions** — not just websites.
+
+> Scalable • Secure • Cost-Optimized • Built for real traffic
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “First make it work. Then make it right. Then make it fast.”
