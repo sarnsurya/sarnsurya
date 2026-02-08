@@ -50,7 +50,7 @@ Currently, I’m actively building and maintaining **E-Commerce Platforms, and C
 - **Backend:** Node.js, Express, REST APIs  
 - **Databases:** MongoDB, MySQL, Firestore  
 - **Cloud & Storage:** AWS S3, Cloudflare R2, Firebase  
-- **DevOps & Hosting:** VPS, PM2, Nginx, Docker  
+- **DevOps & Hosting:** VPS, PM2, Nginx, Cloudflare Workers & pages
 - **Others:** Web performance optimization, scalable architecture design
 
 ---
@@ -77,7 +77,7 @@ Currently, I’m actively building and maintaining **E-Commerce Platforms, and C
 
 - Full-stack development (React + Node.js)
 - AWS S3 / Cloudflare R2 / Firebase integrations
-- Image &azorPay & payment workflows
+- Image & RazorPay payment workflows
 - Hosting, deployment & cost optimization
 - Moving from Firebase to server-based architectures
 
